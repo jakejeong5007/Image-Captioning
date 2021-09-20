@@ -1,1 +1,1 @@
-# VizWiz
+# VizWiz Computer Vision
