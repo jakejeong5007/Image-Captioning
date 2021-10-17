@@ -1,6 +1,6 @@
 # Image Captioning
 
-The model is made to help people who are blind to overcome their difficulties. Previously, it was done by image captioning services were done by human. However, by this model, it will lessen the accessibility barriers for people who are blind. 
+The model is made to help people who are blind to overcome their difficulties. Previously, image captioning services were done by humans. However, by this model, it will lessen the accessibility barriers for people who are blind. 
 
 # Example Image Captioning
 ![image](https://user-images.githubusercontent.com/58636195/136868425-c3fbdd3f-ab81-4e9a-96cb-3b57306adc47.png)
